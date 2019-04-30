@@ -1,0 +1,524 @@
+
+.clearfix{
+    overflow: auto;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/*Header css*/
+.header{
+    box-sizing: border-box;
+    height: 170px;
+    max-height: 170px;
+    padding: 50px 0;
+}
+
+/*Banner css*/
+.banner{
+    margin-top: -170px;
+    height: 936px;
+    width: 100%;
+    background: url("../images/banner.jpg");
+    background-position: top center; /*căn giữa cho ảnh nền*/
+    display: table; /*Thành phần sẽ đối xử như một table, ngắt dòng trước và sau thành phần. (để căn giữa đc chữ)*/
+}
+
+.header .logo{
+
+}
+
+.header nav.main-menu{
+
+}
+
+.header nav.main-menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+
+.header nav.main-menu ul li{
+    float: left;
+}
+.header nav.main-menu ul li a{
+    display: inline-block;
+    padding: 10px 25px;
+    font-size: 20px;
+    color: #8d8d8d;
+}
+
+.header nav.main-menu ul li i{
+    font-size: 20px;
+    color:#8d8d8d;
+}
+
+.banner h1{
+    font-size: 83px;
+    color:#000000;
+    display: table-cell; /*Thành phần sẽ đối xử như một ô trong table.(để căn giữa đc chữ)*/
+    text-align: center;  /* căn giữa theo chiều ngang*/
+    vertical-align: middle; /* căn giữa theo chiều dọc */
+}
+.banner h1 span{
+    color:#f66c27;
+}
+/*main-content css*/
+
+/*content 1 css*/
+.c1-trai,.c1-phai{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.c1-trai{
+    height: 600px;
+}
+.c1-trai img[name="ban3"]{
+    width: 90%;
+    margin-top: 80px;
+}
+.c1-trai img[name="hoa2"]{
+    margin-top: -150px;
+    margin-left: 200px;
+}
+.c1-phai{
+    height: 600px;
+}
+
+.c1-p1{
+    margin-top: 120px;
+    max-width: 300px;
+}
+.c1-p1 h3{
+    font-size: 45px;
+}
+.c1-p2{
+    margin-top: 20px;
+}
+.c1-p2 span{
+    margin-right:50px;
+    color:#f66c27;
+}
+.c1-p3{
+    margin-top: 15px;
+}
+.c1-p3 p{
+    font-size: 15px;
+    color:#888888;
+}
+.c1-p4 input[name="readmore"]{
+    margin-top: 20px;
+    background-color:#f66c27;
+    color: #fff;
+    border: none;
+    width: 150px;
+    height: 50px;
+    border-radius: 32px;
+}
+.c1-p4 input:focus{
+    outline: none;
+}
+
+/*content2 css*/
+
+.content2{
+}
+.c2-help{
+    margin-left: 100px;
+}
+.c2-help h4{
+    font-size: 45px;
+}
+.c2-trai,.c2-giua,.c2-phai{
+    box-sizing: border-box;
+    height: 400px;
+    margin-top: 45px;
+}
+.c2-main{
+    text-align: center;
+    /*margin:0 30px;*/
+    padding:45px;
+    padding-top: 95px;
+}
+.c2-main .tieude{
+    margin-top: 20px;
+}
+.c2-main .tieude h4{
+    font-size: 25px;
+    color: #333333;
+}
+.c2-main .giaithich{
+}
+.c2-main .giaithich p{
+    font-size: 14px;
+    color:#888888;
+    line-height: 25px;
+}
+.c2-main-giua{
+    box-shadow: 30px 30px 30px #eeeded;
+    -moz-box-shadow: 30px 30px 30px #eeeded;
+    -webkit-box-shadow: 30px 30px 30px #eeeded;
+}
+.c2-main-giua .icon i{
+    color: #f66c27;
+}
+/*content3 css*/
+.c3-tieude{
+    margin-top: 50px;
+}
+
+.c3-tieude h4{
+    text-align: center;
+    font-size: 45px;
+}
+.c3-noidung{
+    margin-top: 40px;
+}
+.c3-noidung p{
+    text-align: center;
+    font-size: 15px;
+    color: #888888;
+}
+.c3-map{
+    margin-top: 30px;
+}
+
+/*content4 css*/
+
+.content4-4{
+    height: 350px;
+    background-image: url("../images/sub.jpg");
+    background-position:top center; /*căn giữa cho ảnh nền*/
+}
+.c4-main{
+    width: 100%;
+    height: 350px;
+}
+.c4-tieude{
+    text-align: center;
+}
+.c4-tieude h4{
+    color: #fff;
+    font-size: 30px;
+    margin-top: 80px;
+}
+
+.c4-mail{
+    text-align: center;
+    margin-top: 70px;
+}
+.c4-form input[name="email"]{
+    width: 500px;
+    height: 45px;
+    border: none;
+    border-radius: 32px;
+    outline: none;
+}
+.c4-form input[name="submit"]{
+    width: 180px;
+    height: 45px;
+    border: none;
+    border-radius: 32px;
+    background-color: #f48146;
+    color: #fff;
+    outline: none;
+    margin-left: 10px;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow:0px 0px 6px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.5);
+}
+.c4-form input::-webkit-input-placeholder{
+    margin-left: 50px;
+}
+/*content5 css*/
+.content5-5{
+    height: 550px;
+    background-color: #f8f8f8;
+}
+.c5-main{
+    box-sizing: border-box;
+    width: 100%;
+    height: 550px;
+}
+.c5-dauphay{
+    width: auto;
+    height: auto;
+}
+.c5-dauphay h1{
+    font-size: 300px;
+    color: #fff;
+    float: right;
+}
+.c5-tieude h3{
+    font-size: 45px;
+    margin-top: 60px;
+}
+.c5-noidung p{
+    font-size: 15px;
+    color:#888888;
+    margin-top: 25px;
+}
+.c5-ten h5{
+    margin-top: 25px;
+}
+.c5-ten span{
+    color: #f66c27;
+}
+.c5-dot .dot{
+    margin-top: 25px;
+    cursor: pointer;
+    height: 6px;
+    width: 6px;
+    background-color: #bbb;
+    display: inline-block !important; /* phan trọng trong hiển thị dot */
+}
+.c5-dot .dot-main{
+    background-color: #f66c27;
+}
+div.col-8.c5-main{
+    text-align: center;
+}
+/*content6 css*/
+.c6-nd{
+    box-sizing: border-box;
+    height: 800px;
+    margin: 0;
+    padding: 0;
+    margin-top: 180px;
+}
+
+.c6-tieude h4{
+    font-size: 45px;
+}
+.c6-noidung{
+    max-width: 300px;
+}
+.c6-noidung p{
+    margin-top: 40PX;
+    font-size: 15px;
+    color: #888888;
+    line-height: 25px;
+}
+.c6-noidung p span{
+    color: #f66c27;
+}
+
+.c6-nut input[name="allproject"]{
+    margin-top: 28px;
+    margin-bottom: 40px;
+    border: none;
+    width: 180px;
+    height: 50px;
+    border-radius: 32px;
+    background-color: #f66c27;
+    color: white;
+}
+
+.c6-nd img[name="noithat3"],.c6-nd img[name="noithat2"]{
+    margin-left: 15px;
+}
+
+.c6-nd img[name="noithat2"]{
+    margin-top: 18px;
+}
+/*footer css*/
+.footer{
+    background: linear-gradient(to right, #f66c27 50%, #ffffff 50%); /* Chia backgroud của footer thành 2 màu khác nhau */
+}
+.footer .contact-form{
+    background:  #f66c27;
+    box-sizing: border-box;
+    height: 700px;
+}
+
+.contact-form .content-form{
+    background-color: #fff;
+    padding: 60px;
+    margin-top: 138px;
+    margin-right: 100px;
+}
+
+.content-form input,textarea{
+    border: none;
+    border-bottom: 1px solid #c8c8c8;
+    width: 100%;
+    font-size: 15px;
+    color:#777777;
+}
+
+.first-row input{
+    width: 40%;
+}
+/*.first-row:after{ chống tràn*/
+    /*content: '';*/
+    /*clear: both;*/
+/*}*/
+.first-row input[name="email"]{
+    float: right;
+}
+
+.content-form input:focus, textarea:focus{
+    outline: none;  /* xóa outline(border xanh khi click vào) khi được chọn */
+}
+
+.contact-form-row{
+    margin-bottom: 20px;
+}
+
+.submit-row{
+    text-align: center;
+}
+
+.contact-form input[type="submit"]{
+    background: #f48146;
+    color:#fff;
+    display: inline-block;
+    width: auto;
+    padding: 10px 45px;
+    border-radius: 32px;
+    font-size: 18px;
+}
+
+.footer .contact-info{
+    box-sizing: border-box;
+    height: 700px;
+    padding-left: 100px;
+}
+
+.footer .contact-info h3{
+    margin-top: 108px;
+    font-size: 45px;
+}
+
+.line-contact-info{
+    padding: 20px 0;
+}
+
+.line-contact-info h4{
+    color:#333333;
+    font-size: 25px;
+}
+
+.line-contact-info p{
+    font-size: 15px;
+    max-width: 250px;
+}
+
+.line-contact-info span{
+    color:#f48146;
+}
+
+.footer .social-icon i{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    background: #bbbbbb;
+    text-align: center;
+    color:#fff;
+    margin-right: 20px;
+}
+
+.footer .social-icon i:hover{
+    background-color: #f48146;
+}
+
+.coppyright{
+    font-size: 15px;
+    color: #888888;
+    margin-top: 50px;
+}
+.coppyright p{
+    margin: 0;
+    float: right;
+}
+
+/*Định nghĩa cho smart phone*/
+
+@media only screen and (min-width: 0px) and (max-width: 699px) {
+    .c1-phai{
+        /*display: none;*/
+    }
+    .c1-trai img[name="ban3"],.c1-trai img[name="hoa2"]{
+        width: 100%;
+    }
+    .c1-trai img[name="hoa2"]{
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .c1-p1{
+        margin-top: 0;
+    }
+    .c1-trai,.c1-phai{
+        height: auto;
+        margin-bottom: 50px;
+    }
+    .c1-p2 span{
+        margin-right: 10px;
+    }
+    .c1-trai img[name="ban3"] {
+        margin-top: 40px;
+    }
+    .c2-trai,.c2-giua,.c2-phai{
+        margin-top: 0;
+        height: 300px;
+    }
+    .c2-giua .c2-main-giua{
+        box-shadow: none;
+    }
+    .c2-main{
+        padding-top: 40px;
+    }
+    .c2-phai{
+        margin-bottom: 50px;
+    }
+    .c3-tieude{
+        margin-top: 0px;
+    }
+    .c4-form input[name="email"]{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .c4-main{
+        height: auto;
+    }
+    .content4-4{
+        height: auto;
+    }
+    .content5,.content5-5,.c5-main{
+        height: auto;
+    }
+    .c6-nd{
+        margin-top: 20px;
+        height: auto;
+    }
+    .c6-nd img{
+        width: 100%;
+    }
+    .c6-nd img[name="noithat3"], .c6-nd img[name="noithat2"] {
+        margin-left: 0px;
+    }
+    .footer{
+        background: none;
+    }
+    .contact-form .content-form{
+        margin-right: 0;
+    }
+}
+
+@media only screen and (min-width: 700px) and (max-width: 1000px) {
+    .c2-trai,.c2-giua,.c2-phai{
+        height: 600px;
+    }
+    .c6-nd img{
+        width: 100%;
+    }
+}
