@@ -1,4 +1,11 @@
 
+.c5-main-trong{
+    display: none;
+}
+.f{
+    display: block;
+}
+
 .clearfix{
     overflow: auto;
 }
@@ -280,7 +287,7 @@
     background-color: #bbb;
     display: inline-block !important; /* phan trọng trong hiển thị dot */
 }
-.c5-dot .dot-main{
+.c5-dot .active{
     background-color: #f66c27;
 }
 div.col-8.c5-main{
