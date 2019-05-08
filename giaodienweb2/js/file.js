@@ -2,14 +2,14 @@
 $(document).ready(function () {
     $(".dota").click(function () {
         // $(".header").css("background-image","url(\"file:///C:/xampp/htdocs/giaodienweb/giaodienweb2/images/anhbia1_01.jpg\")");
-        $(".header").css("background-image","url(\"http://localhost:63342/giaodienweb/giaodienweb2/images/anhbia1_01.jpg\")")
+        $(".header").css("background-image","url(\"http://localhost:63342/giaodienweb/giaodienweb2/images/anhbia1_01.jpg?_ijt=v7enqo882qglu4vh9t7sj40i6s\")")
         $(".dota").css("background-color","#fff");
         $(".dotb").css("background-color","#bbb");
         $(".dotc").css("background-color","#bbb");
     });
     $(".dotb").click(function () {
         // $(".header").css("background-image","url(\"file:///C:/xampp/htdocs/giaodienweb/giaodienweb2/images/anhbia2_01.jpg\")");
-        $(".header").css("background-image","url(\"http://localhost:63342/giaodienweb/giaodienweb2/images/anhbia2_01.jpg\")")
+        $(".header").css("background-image","url(\"http://localhost:63342/giaodienweb/giaodienweb2/images/anhbia2_01.jpg?_ijt=v7enqo882qglu4vh9t7sj40i6s\")")
 
         $(".dota").css("background-color","#bbb");
         $(".dotb").css("background-color","#fff");
