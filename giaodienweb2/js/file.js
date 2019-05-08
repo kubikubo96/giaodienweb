@@ -17,7 +17,7 @@ $(document).ready(function () {
     });
     $(".dotc").click(function () {
         // $(".header").css("background-image","url(\"file:///C:/xampp/htdocs/giaodienweb/giaodienweb2/images/anhbia3_03.jpg\")");
-        $(".header").css("background-image","url(\"http://localhost:63342/giaodienweb/giaodienweb2/images/anhbia3_03.jpg\")")
+        // $(".header").css("background-image","url(\"http://localhost:63342/giaodienweb/giaodienweb2/images/anhbia3_03.jpg\")")
         $(".dota").css("background-color","#bbb");
         $(".dotb").css("background-color","#bbb");
         $(".dotc").css("background-color","#fff");

@@ -159,6 +159,69 @@
 }
 /*end content1*/
 
+/*start content2*/
+.content2{
+    height: 500px;
+    text-align: center;
+    background-image: url("../images/bc-3_02.jpg");
+    background-position: top center;
+    background-size: 100% 100%;
+}
+.content2 .col-4{
+    margin-top: 100px;
+}
+.content2 .icon{}
+.content2 .icon a i{
+    font-size: 35px;
+}
+.content2 .tieude{
+    font-family:"Poppins SemiBold";
+    margin-top: 30px;
+}
+.content2 .tieude h6{
+    font-size: 18px;
+}
+.content2 .duongke{
+    width: 40px;
+    height: 3px;
+    background-color: #00c566;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.content2 .gioithieu{
+    font-size: 15px;
+    font-family: Raleway;
+    max-width: 220px;
+    margin:0 auto;
+    margin-top: 40px;
+
+}
+.content2 .gioithieu p{
+    color: #a2a2a2;
+}
+.content2 .c2-1,.c2-2,.c2-3{
+    padding: 25px;
+}
+.content2 .c2-2{
+    background-color: #02d871;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px #bbb;
+}
+.content2 .c2-2 .icon a{
+    color: #fff;
+}
+.content2 .c2-2 .tieude h6{
+    color: white;
+}
+.content2 .c2-2 .duongke{
+    background-color: #fff;
+}
+.content2 .c2-2 .gioithieu p{
+    color: white;
+}
+/*end content2*/
+
+
 /*mobile phone*/
 @media screen and (min-width: 0px) and (max-width:767px){
 
@@ -186,12 +249,23 @@
         margin-left: 0px;
         padding: 10px;
         height: auto;
+        text-align: center;
     }
     .content1 .c1-right .c1r-tieude h3{
         margin-top: 0px;
+        max-width: none;
+    }
+    .content1 .c1-right .c1r-giaithich p{
+        max-width: none;
+    }
+    .content2{
+        height: auto;
+    }
+    .content2 .col-4{
+        margin-top: 0;
+        padding: 0;
     }
 }
-
 @media screen and (min-width: 768px) and (max-width:1024px){
 
     .header-content .hc-right{
