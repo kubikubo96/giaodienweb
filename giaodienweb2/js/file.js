@@ -1,4 +1,4 @@
-
+// Xử lý background-images của header
 $(document).ready(function () {
     $(".dota").click(function () {
         // $(".header").css("background-image","url(\"file:///C:/xampp/htdocs/giaodienweb/giaodienweb2/images/anhbia1_01.jpg\")");

@@ -34,6 +34,7 @@
     margin-left: -15px;
 }
 /*end botstrap*/
+
 .row::after {
     content: '';
     clear: both;
@@ -50,7 +51,7 @@
     width: 100%;
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 699px) {
     /* For tablets: */
     .col-s-1 {width: 8.33%;}
     .col-s-2 {width: 16.66%;}
@@ -64,8 +65,8 @@
     .col-s-10 {width: 83.33%;}
     .col-s-11 {width: 91.66%;}
     .col-s-12 {width: 100%;}
-  }
-  @media only screen and (min-width: 768px) {
+}
+@media only screen and (min-width: 1001px) {
     /* For desktop: */
     .col-1 {width: 8.33%;}
     .col-2 {width: 16.66%;}
@@ -79,4 +80,10 @@
     .col-10 {width: 83.33%;}
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
-  }
+}
+
+/* min */
+/* @media only screen and (min-width:0) and (max-width: 699px) {} */
+/* col-s... */
+/* @media only screen and (min-width:700px) and (max-width: 1000px) {} */
+/* col-... */
