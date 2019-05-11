@@ -510,6 +510,7 @@
 }
 .content5 .c5-right .c5-r4 p a{
     text-decoration: none;
+    color:#000;
 }
 .content5 .c5-right .c5-r4 p a:hover{
     color:#00c566;
@@ -640,10 +641,13 @@
          font-size: 35px;
      }
     .header .hc-left{
-        text-align: center;
+        /*text-align: center;*/
     }
     .header .header-content .our-work input[name="button"]{
         margin: 0 auto;
+    }
+    .header-content .hc-left input[name="button"]{
+        width: 150px;
     }
     .content1{
         height: auto;
@@ -672,6 +676,9 @@
     .content1 .c1-right .c1r-giaithich p{
         max-width: none;
     }
+    .content1 .c1-right .c1r-button input[name="button"]{
+        width: 150px;
+    }
     .content2{
         height: auto;
     }
@@ -698,6 +705,9 @@
     .content3 .c3-button{
         padding-bottom: 30px;
     }
+    .content3 input[name="button"]{
+        width: 150px;
+    }
     .content4{
         height: auto;
         margin-bottom: 100px;
@@ -711,6 +721,33 @@
     /*.content4 .c4-right .c4-duongke{*/
     /*margin-bottom: 10px;*/
     /*}*/
+    .content4 .c4-left img[name="anh1"]{
+        left: 20%;
+    }
+    .content4 .c4-left img[name="anh3"]{
+        left: 40%;
+    }
+    .content4 .c4-left img[name="anh4"]{
+        left: 65%;
+    }
+    .content4 .c4-left img[name="tamgiac3"]{
+        left:22%;
+     }
+    .content4 .c4-left img[name="tamgiac1"]{
+        left:40%;
+    }
+    .content4 .c4-left img[name="tamgiac2"]{
+        left:65%;
+    }
+    .content4 .c4-left img[name="bcxanh3"]{
+        left: 20%;
+    }
+    .content4 .c4-left img[name="bcxanh1"]{
+        left: 20%;
+    }
+    .content4 .c4-left img[name="bcxanh2"]{
+        left: 20%;
+    }
     .content5 .c5-left{
         text-align: center;
     }
@@ -783,7 +820,7 @@
         font-size: 35px;
     }
     .header .hc-left{
-        text-align: center;
+        /*text-align: center;*/
     }
     .content1{
         height: auto;
@@ -874,9 +911,9 @@
         left: 50%;
     }
     .content5 .c5-right{
-        margin: 0;
+        width: 45%;
+        margin: 10px;
         max-width: none;
-        float: none;
     }
     .content5 .c5-right p{
         text-align: center;
