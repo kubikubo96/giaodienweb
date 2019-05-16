@@ -52,18 +52,26 @@
 .header nav.main-menu ul li{
     float: left;
 }
+.header nav.main-menu ul li:hover a{
+    color:#f66c27;
+}
 .header nav.main-menu ul li a{
     display: inline-block;
     padding: 10px 25px;
     font-size: 20px;
     color: #8d8d8d;
+    text-decoration: none;
 }
 
 .header nav.main-menu ul li i{
     font-size: 20px;
     color:#8d8d8d;
+    position: relative;
+    left:-20px;
 }
-
+.header nav.main-menu ul li:hover i{
+    color:#f66c27;
+}
 .banner h1{
     font-size: 83px;
     color:#000000;
@@ -122,13 +130,16 @@
     color:#888888;
 }
 .c1-p4 input[name="readmore"]{
-    margin-top: 20px;
-    background-color:#f66c27;
-    color: #fff;
-    border: none;
-    width: 150px;
-    height: 50px;
-    border-radius: 32px;
+     margin-top: 20px;
+     background-color:#f66c27;
+     color: #fff;
+     border: none;
+     width: 150px;
+     height: 50px;
+     border-radius: 32px;
+ }
+.c1-p4 input[name="readmore"]:hover{
+    box-shadow: 2px 2px 2px #888888;
 }
 .c1-p4 input:focus{
     outline: none;
@@ -328,7 +339,9 @@ div.col-8.c5-main{
     background-color: #f66c27;
     color: white;
 }
-
+.c6-nut input[name="allproject"]:hover{
+    box-shadow: 2px 2px 2px #888888;
+}
 .c6-nd img[name="noithat3"],.c6-nd img[name="noithat2"]{
     margin-left: 15px;
 }
