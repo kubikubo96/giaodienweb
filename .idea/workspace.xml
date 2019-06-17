@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/giaodienweb2/css/style.css" line="607" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f136bfd8-1060-4640-8c7b-2f6a19370a45" name="Default Changelist" comment="giao dien web" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/giaodienweb1/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dot</find>
+      <find>not</find>
+      <find>duong</find>
+      <find>duongke</find>
+      <find>button</find>
+      <find>content2</find>
+      <find>pink</find>
+      <find>color</find>
+      <find>.quangcao</find>
+      <find>quangcao</find>
+      <find>tindocnhieu</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/giaodienweb1/file.js" />
+        <option value="$PROJECT_DIR$/giaodienweb1/js/file.js" />
+        <option value="$PROJECT_DIR$/giaodienweb1/content5.html" />
+        <option value="$PROJECT_DIR$/giaodienweb1/index.html" />
+        <option value="$PROJECT_DIR$/giaodienweb2/css/style.css.html" />
+        <option value="$PROJECT_DIR$/giaodienweb2/js/file1.js" />
+        <option value="$PROJECT_DIR$/giaodienweb2/js/file2.js" />
+        <option value="$PROJECT_DIR$/giaodienweb2/css/framework.css" />
+        <option value="$PROJECT_DIR$/giaodienweb2/js/file3.js" />
+        <option value="$PROJECT_DIR$/giaodienweb2/js/file.js" />
+        <option value="$PROJECT_DIR$/giaodienweb2/css/style.css" />
+        <option value="$PROJECT_DIR$/giaodienweb2/index.html" />
+        <option value="$PROJECT_DIR$/giaodienweb1/css/style.css" />
+        <option value="$PROJECT_DIR$/giaodienweb3/menu/css/flatmenu.css" />
+        <option value="$PROJECT_DIR$/giaodienweb3/css/style1.css" />
+        <option value="$PROJECT_DIR$/giaodienweb3/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="74" />
+    <option name="y" value="3" />
+    <option name="width" value="827" />
+    <option name="height" value="729" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="giaodienweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="giaodienweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\giaodienweb\giaodienweb3" />
+      <recent name="C:\xampp\htdocs\giaodienweb\giaodienweb2\images" />
+      <recent name="C:\xampp\htdocs\giaodienweb\giaodienweb2\css" />
+      <recent name="C:\xampp\htdocs\giaodienweb\giaodienweb2" />
+      <recent name="C:\xampp\htdocs\giaodienweb\giaodienweb1\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\giaodienweb\giaodienweb2\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f136bfd8-1060-4640-8c7b-2f6a19370a45" name="Default Changelist" comment="" />
+      <created>1556634550397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556634550397</updated>
+      <workItem from="1556634551802" duration="784000" />
+      <workItem from="1556656502323" duration="2525000" />
+      <workItem from="1556958009875" duration="626000" />
+      <workItem from="1557128251046" duration="134000" />
+      <workItem from="1557129826480" duration="4512000" />
+      <workItem from="1557297368208" duration="13764000" />
+      <workItem from="1557332189909" duration="17593000" />
+      <workItem from="1557404831333" duration="7128000" />
+      <workItem from="1557432885188" duration="35127000" />
+      <workItem from="1557603920735" duration="5823000" />
+      <workItem from="1557681643042" duration="1673000" />
+      <workItem from="1557832354533" duration="58000" />
+      <workItem from="1557988119073" duration="9656000" />
+      <workItem from="1558008269592" duration="90000" />
+      <workItem from="1558439415433" duration="58000" />
+    </task>
+    <task id="LOCAL-00001" summary="giao dien web 1 : noi that">
+      <created>1556634658312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556634658312</updated>
+    </task>
+    <task id="LOCAL-00002" summary="giao dien web 1 : noi that">
+      <created>1556658604811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556658604812</updated>
+    </task>
+    <task id="LOCAL-00003" summary="giao dien web">
+      <created>1557342510674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557342510674</updated>
+    </task>
+    <task id="LOCAL-00004" summary="giao dien web">
+      <created>1557342781902</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557342781902</updated>
+    </task>
+    <task id="LOCAL-00005" summary="giao dien web">
+      <created>1557343066024</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557343066024</updated>
+    </task>
+    <task id="LOCAL-00006" summary="giao dien web">
+      <created>1557348950617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557348950617</updated>
+    </task>
+    <task id="LOCAL-00007" summary="giao dien web">
+      <created>1557484002120</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557484002120</updated>
+    </task>
+    <task id="LOCAL-00008" summary="giao dien web">
+      <created>1557609147929</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1557609147929</updated>
+    </task>
+    <task id="LOCAL-00009" summary="giao dien web">
+      <created>1557988214350</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1557988214350</updated>
+    </task>
+    <task id="LOCAL-00010" summary="giao dien web">
+      <created>1557999832368</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1557999832368</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="99551000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16363636" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15658094" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="giao dien web 1 : noi that" />
+    <MESSAGE value="giao dien web" />
+    <option name="LAST_COMMIT_MESSAGE" value="giao dien web" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/giaodienweb1/file.js" />
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/js/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb1/js/file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb1/content5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="93" selection-end-column="14" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/css/style.css.html" />
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/images/vtf-007-agency-landing-page-template_03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/images/anhbia1_01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/images/anhbia2_01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/images/bc-3_02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/js/file1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/js/file2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/animate/wow.min.js" />
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/css/framework_boss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/css/framework.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="78" column="24" lean-forward="true" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/js/file3.js" />
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="246" column="26" selection-start-line="246" selection-start-column="26" selection-end-line="246" selection-end-column="26" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#12456#12462#0" expanded="true" />
+            <element signature="e#12463#12469#0" expanded="true" />
+            <element signature="e#12470#12476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb3/tintucmoitheloai.html" />
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="990" column="5" selection-start-line="990" selection-start-column="5" selection-end-line="990" selection-end-column="5" />
+          <folding>
+            <marker date="1557609001320" expanded="true" signature="4238:4661" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb2/js/file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb1/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="328" column="18" selection-start-line="328" selection-start-column="18" selection-end-line="328" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb3/menu/css/flatmenu.css" />
+    <entry file="file://$PROJECT_DIR$/giaodienweb3/css/style1.css" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/giaodienweb3/index.html" />
+    <entry file="file://$PROJECT_DIR$/giaodienweb1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
